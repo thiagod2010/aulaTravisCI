@@ -4,4 +4,4 @@ python:
 before_script:
   -cd src
 script:
-  -python testes.py
+  -testes.py
